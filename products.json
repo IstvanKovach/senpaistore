@@ -1,0 +1,44 @@
+[
+  {
+    "title": "CS:GO T-shirt",
+    "id": "polo1",
+    "description": "Férfi T-shirt",
+    "price": "14.99",
+    "image": "/images/polo1.png"
+  },
+{
+  "title": "League of Legends T-shirt",
+  "id": "polo4",
+  "description": "Férfi T-shirt",
+  "price": "14.99",
+  "image": "/images/polo4.png"
+},
+{
+  "title": "Bitcoin Hoodie",
+  "id": "bitcoin",
+  "description": "Férfi kapucnis pulóver",
+  "price": "29.99",
+  "image": "/images/bitcoin.png"
+},
+{
+  "title": "Anonymous Hoodie",
+  "id": "anonymous",
+  "description": "Férfi kapucnis pulóver",
+  "price": "29.99",
+  "image": "/images/anonymous.png"
+},
+  {
+    "title": "1L Smirnoff",
+    "id": "vodka",
+    "description": "Premium Vodka 40%",
+    "price": "19.99",
+    "image": "/images/vodka.png"
+  },
+  {
+    "title": "1L Finlandia",
+    "id": "vodka1",
+    "description": "Premium Vodka 40%",
+    "price": "17.99",
+    "image": "/images/vodka1.png"
+  }
+]
